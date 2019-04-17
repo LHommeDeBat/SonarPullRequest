@@ -2,8 +2,9 @@ package services;
 
 public class Calculator {
 
-	public Integer add(int a, int b, int c) {
+	public Integer add(int a, int b) {
 		return a + b;
 	}
 	
 }
+
